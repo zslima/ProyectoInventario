@@ -1,0 +1,20 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<div>
+    <div class="header">
+        Sistema de Inventario
+        <div class="menu">
+            <a href="index" class="btn btn-mini btn-warning" role="button">Inicio</a>
+            <a href="categ?op=1" class="btn btn-mini btn-warning" role="button">Categoria</a>
+            <a href="dpto?op=2" class="btn btn-mini btn-warning" role="button">Componente</a>
+            <a href="usuar?op=1" class="btn btn-mini btn-warning" role="button">Usuario</a>
+            <a href="unitcont?op=1" class="btn btn-mini btn-warning" role="button">Sub-Componente</a>
+            <a href="pvir?op=1" class="btn btn-mini btn-warning" role="button">Persona</a>
+            <a href="index" class="btn btn-mini btn-warning" role="button">Inventario</a>
+            <a href="index" class="btn btn-mini btn-warning" role="button">Detalle-Inventario</a>
+            <a href="index" class="btn btn-mini btn-warning" role="button">Inicio</a>
+        </div>
+    </div>
+    <div class="content">
+        
+    
